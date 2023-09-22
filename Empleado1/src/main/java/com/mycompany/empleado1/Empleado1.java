@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 public class Empleado1 {
 
     public static void main(String[] args) {
-         int horas1 = 0;
+        int horas1 = 0;
         int horas = 3400;
         int horario_nocturno = 36000;
         int resultado = 0;
